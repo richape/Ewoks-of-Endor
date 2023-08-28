@@ -3,7 +3,7 @@ import express from 'express'
 const router = express.Router()
 
 router.get('/', (req, res) => {
-  res.send('WOMBLES!')
+  res.send('Welcome to The forest Moon of Endor!')
 })
 
 export default router

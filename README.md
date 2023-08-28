@@ -1,6 +1,6 @@
 # knex-joins-stories
 
-This challenge provides user stories to implement, which will enable us to practise joins.
+This challenge provides user stories to implement, which will enable us to practice joins.
 
 ---
 
@@ -64,7 +64,7 @@ That's MVP! If you're done already, implement the stories below.
 
   - As a user, I would like to modify a womble's traits so that they can change costumes when they like
 
-  - As a user, I would like to change a womble's rubbish type assignment so I can make the best use of their meagre resources
+  - As a user, I would like to change a womble's rubbish type assignment so I can make the best use of their meager resources
 
   - As an administrator, I would like to add new rubbish types because the rubbish collection needs on Wimbledon Commons are always changing
 

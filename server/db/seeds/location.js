@@ -1,9 +1,9 @@
 export const seed = (knex) =>
-  knex('traits')
+  knex('location')
     .del()
     .then(() =>
-      knex('traits').insert([
-        { id: 99901, description: 'wise' },
+      knex('location').insert([
+        { id: 99901, description: 'Bright Tree Village' },
         { id: 99902, description: 'handy' },
         { id: 99903, description: 'french' },
         { id: 99904, description: 'lazy' },
