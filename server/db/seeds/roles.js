@@ -10,7 +10,7 @@ export const seed = (knex) =>
         { id: 99905, description: 'Warrior Princess' },
         { id: 99906, description: 'Hunter' },
         { id: 99907, description: 'Wickets Father' },
-        { id: 99906, description: 'Brave young Warrior' },
-        { id: 99907, description: 'Scout' },
+        { id: 99908, description: 'Brave young Warrior' },
+        { id: 99909, description: 'Scout' },
       ])
     )
