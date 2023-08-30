@@ -1,0 +1,58 @@
+{
+  "ewoks": [
+    {
+      "id": 1,
+      "name": "Chief Chirpa",
+      "image": "/Images/Ewoks/Chief_Chirpa.png",
+      "role": "Village Chief" 
+      },
+    {
+      "id": 2,
+      "name": "Logray",
+      "image": "/Images/Ewoks/Logray.png",
+      "role": "Village Shaman" 
+      },
+    {
+      "id": 3,
+      "name": "Flitchee",
+      "image": "/Images/Ewoks/Flitchee.png",
+      "role": "Master of War" 
+      },
+    {
+      "id": 4,
+      "name": "Wunka",
+      "image": "/Images/Ewoks//Wunka.png",
+      "role": "Warrior" 
+      },
+    {
+      "id": 5,
+      "name": "Princess Kneesaa",
+      "image": "/Images/Ewoks/Princess_Kneesaa.png",
+      "role": "Warrior Princess" 
+      },
+    {
+      "id": 6,
+      "name": "Teebo",
+      "image": "/Images/Ewoks/Teebo.png",
+      "role": "Hunter"
+      },
+    {
+      "id": 7,
+      "name": "Deej Warrick",
+      "image": "/Images/Ewoks/Deej.png",
+      "role": "Wickets Father" 
+      },
+    {
+      "id": 8,
+      "name": "Wicket W. Warrick",
+      "image": "/Images/Ewoks/Wicket_W_Warrick.png",
+      "role": "Brave Young Warrior" 
+      },
+    {
+      "id": 9,
+      "name": "Paploo",
+      "image": "/Images/Ewoks/paploo.jpeg",
+      "role": "Village Scout" 
+                      }
+      ]
+    }
