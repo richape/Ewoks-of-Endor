@@ -3,7 +3,7 @@ import * as URL from 'node:url'
 import express from 'express'
 import hbs from 'express-handlebars'
 
-import routes from './routes.js'
+import routes from '../routes.js'
 
 const server = express()
 
